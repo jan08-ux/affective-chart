@@ -3,5 +3,7 @@
   "model": "DALL-E 3",
   "dataset_name": "UNHCR Global Trends Report 2024",
   "dataset_url": "https://www.unhcr.org/global-trends",
-  "insight": "By mid-2024, over 117 million people were forcibly displaced worldwide — more than the entire population of France and Germany combined."
+  "insight": "By mid-2024, over 117 million people were forcibly displaced worldwide — more than the entire population of France and Germany combined.",
+  "concept": "The incomprehensible scale of forced displacement, where millions of individual human lives are reduced to abandoned objects on a barren plain.",
+  "metaphor": "Abandoned shoes stretching to the horizon represent displaced people — each pair a life uprooted, with a single red child's shoe as the emotional anchor that makes the scale personal."
 }
