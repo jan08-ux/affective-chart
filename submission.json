@@ -1,4 +1,7 @@
 {
   "prompt": "paste your full prompt here",
-  "model": "DALL-E 3"
+  "model": "DALL-E 3",
+  "dataset_name": "UNHCR Global Trends Report 2024",
+  "dataset_url": "https://www.unhcr.org/global-trends",
+  "insight": "By mid-2024, over 117 million people were forcibly displaced worldwide — more than the entire population of France and Germany combined."
 }
